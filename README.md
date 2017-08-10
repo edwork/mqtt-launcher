@@ -1,4 +1,6 @@
-# mqtt-launcher
+# python3-mqtt-launcher
+
+(Forked from jpmens/mqtt-launcher to support Python3)
 
 _mqtt-launcher_ is a Python program which subscribes to a set of [MQTT] topics
 and executes processes on the host it's running on. Launchable processes are

@@ -3,8 +3,8 @@ logfile = 'logfile'
 mqtt_broker = 'localhost'       # default: 'localhost'
 mqtt_port = 1883                # default: 1883
 mqtt_clientid = 'mqtt-launcher-1'
-# mqtt_username = 'jane'
-# mqtt_password = 'secret'
+mqtt_username = 'null' ## Keep as null if no username is required
+mqtt_password = 'null' ## Keep as null if no password is required
 
 topiclist = {
 
